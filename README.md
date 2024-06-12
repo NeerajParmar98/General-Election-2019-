@@ -1,4 +1,4 @@
-# General-Election-2019-
+# General-Election(2019)
 The project is aimed to perform Exploratory Data Analysis on general election of 2019
 
 # Content
